@@ -18,7 +18,7 @@ By providing users with multiple search filters allows for an easier access to s
 
 ***Recommendations:***
 * The first recommendation that I would add is by further developing a webpage link that would scrap the newest UFO sightings with mongodb collecting the up-to-date data for users search preference.
-* The second recommendation is to make the webpage more dynamic in terms of UFO animations to attract the users atention, as well as when users input a shape in the filter table animations representing those shapes come up. This will allow users to compare shape sighting they have seen to what the data shape animates. 
+* The second recommendation is to make the webpage more dynamic in terms of UFO animations to attract the users attention, as well as when users input a shape in the filter table animations representing those shapes come up. This will allow users to compare shape sighting they have seen to what the data shape animates. 
 
 ## Code files:
 App script: [app.py](app.py)
